@@ -10,3 +10,8 @@ This is a wordpress website deployed on azure, which uses azure services like az
 Project URL: https://frtproject2023.azurewebsites.net/
 Project Video: https://www.youtube.com/watch?v=wxMfuCljBII
 
+![frt1](https://github.com/20A31A0598/frtproject/assets/32220894/d81792c2-4ffe-48be-8966-08614914bc20)
+
+![frt2](https://github.com/20A31A0598/frtproject/assets/32220894/65e7dd59-d492-4b2f-9bd1-bddddb4a66dc)
+
+![frt3](https://github.com/20A31A0598/frtproject/assets/32220894/7cbb2b94-4f52-4859-a14e-a0e6ac49dc35)
